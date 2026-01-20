@@ -114,6 +114,8 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 
+.idea/
+
 ### Java ###
 # Compiled class file
 *.class
@@ -152,6 +154,8 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+.mvn
 
 # Eclipse m2e generated files
 # Eclipse Core
